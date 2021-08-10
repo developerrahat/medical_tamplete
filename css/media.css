@@ -1,0 +1,495 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+     /* header top media css start */
+    .contact-item{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .ct-icon i {
+        margin-right:5px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 16px;   
+    }
+    .ct-content h6 {
+        font-size: 12px;
+    }
+    .ct-content p {
+        font-size: 12px;
+    }
+    .pr0{
+        padding-right: 0 !important;
+    }
+    /* header top media css end */
+
+    /* banner media css start */
+    .banner-caoption {
+        padding: 70px 0;
+        text-align: left !important;
+    }
+    .banner-caoption h1 {
+        margin-bottom: 10px;
+        font-size: 21px;
+    }
+    .banner-caoption p {
+        font-size: 13px;
+    }
+    /* banner media css end */
+
+    /* service media css start */
+    .service-item {
+        padding: 20px 25px;
+        color: #ffffff;
+    }
+    .s-icon i {
+        margin-top: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;   
+    }
+    .s-content h2 {
+        font-size: 25px;
+    }
+    .s-content p {
+        font-size: 13px;
+    }
+    /* service media css end */
+
+    /* choose media css start */
+    .similar-title h1 {
+        font-size: 30px;
+    }
+    .similar-title p {
+        font-size: 13px;
+        margin-top: 10px;
+        line-height: 22px;
+    }
+    .why-choose-us {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .choose-content {
+        margin-top: 15px;
+        padding: 10px 2px;
+        text-align: center;
+    }
+    .choose-content p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .c-icon {
+        float: none !important;
+    }
+    .c-icon i {
+        font-size: 18px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    /* choose media css end */
+
+    /* counter media css start */
+    .counter {
+        padding: 20px 0;
+    }
+    .counter-item h2 {
+        margin-top: 15px;
+        font-size:35px;
+    }
+    .counter-item h5 {
+        font-size: 15px;    
+    }
+    .h-arrow {
+        width: 45px;
+        height: 3px;
+    }
+    /* counter media css end */
+
+    /* creative media start */
+    .creative {
+        padding: 40px 0;
+    }
+    .creative-content {
+        margin-top: 15px;
+    }
+    .mc-btn {
+        padding: 2px 4px;
+        font-size: 16px;
+    }
+    .mc-header {
+        margin: 10px 0;
+    }
+    .mc-btn::before {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;  
+    }
+    .ac-body {
+        margin-bottom: 30px;
+        padding: 0 25px !important;
+        font-size: 14px;
+    }
+    .creative-content figure h2 {
+        font-size: 16px;
+    }
+    .creative-content figure figcaption {
+        font-size: 12px;
+    }
+    .creative-content figure img{
+        margin-bottom: 10px;
+    }
+    .mts{
+        margin-top:50px;
+    }
+    .creative-btn{
+        margin-top: 20px !important;
+    }
+    .creative-content p {
+        font-size: 13px;
+    }
+    /* creative media end */
+
+
+    /* team media css start */
+    .our-team {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .team-member {
+        margin-top: 20px;
+    }
+    /* team media css end */
+    /* offer media css start */
+    .offer {
+        padding: 22px 0;
+    }
+    .offer-heading {
+        margin-bottom: 15px;
+        font-size: 16px;
+        text-align: center;
+    }
+    /* offer media css end */
+
+    /* footer media css start */
+    .footer-top {
+        padding: 40px 0;
+    }
+    .ft-widget {
+        margin-bottom: 20px;
+    }
+    .ft-widget h2 {
+        font-size: 18px;
+    }
+    .ft-contact ul li p {
+        font-size: 12px;
+    }
+    .ft-menu ul li a {
+        margin: 0;
+        font-size: 12px;
+    }
+    .form-name, .form-phone, .form-massage {
+        font-size: 14px;
+    }
+    .fb-text p {
+        font-size: 12px;
+    }
+    /* footer media css end */
+
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header top media css start */
+    .contact-item{
+        margin-top: 20px;
+    }
+    .ct-icon i {
+        margin-right:5px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 16px;  
+    }
+    .ct-content h6 {
+        font-size: 12px;
+    }
+    .ct-content p {
+        font-size: 11px;
+    }
+    /* header top media css end */
+
+    /* banner media css start */
+    .banner-caoption {
+        padding: 100px 0;
+        text-align: left !important;
+    }
+    .banner-caoption h1 {
+        margin-bottom: 16px;
+        font-size: 30px;
+    }
+    .banner-caoption p {
+        font-size: 14px;
+    }
+    /* banner media css end */
+    /* service media css start */
+    .service-item {
+        padding: 20px 25px;
+        color: #ffffff;
+    }
+    .s-content h2 {
+        font-size: 25px;
+    }
+    .s-content p {
+        font-size: 15px;
+    }
+    /* service media css end */
+
+    /* choose media css start */
+    .similar-title h1 {
+        font-size: 30px;
+    }
+    .similar-title p {
+        font-size: 14px;
+    }
+    .why-choose-us {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .choose-content {
+        margin-top: 15px;
+        padding: 10px 2px;
+    }
+    .choose-content p {
+        margin-top: 20px;
+    }
+    .c-icon i {
+        font-size: 18px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    
+    }
+    /* choose media css end */
+    /* counter media css start */
+    .counter {
+        padding: 30px 0;
+    }
+    .counter-item h2 {
+        margin-top: 15px;
+        font-size: 40px;
+    }
+    .counter-item h5 {
+        font-size: 16px;      
+    }
+    .h-arrow {
+        width: 45px;
+        height: 3px;
+    }
+    /* counter media css end */
+
+    /* creative media start */
+    .creative {
+        padding: 40px 0;
+    }
+    .creative-content {
+        margin-top: 15px;
+    }
+    .mc-btn {
+        padding: 6px 5px;
+        font-size: 16px;
+    }
+    .mc-header {
+        margin: 10px 0;
+    }
+    .mc-btn::before {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;   
+    }
+    .ac-body {
+        margin-bottom: 30px;
+        padding: 0 25px !important;
+        font-size: 14px;
+    }
+    .creative-content figure h2 {
+        font-size: 18px;
+    }
+    .creative-content figure figcaption {
+        font-size: 14px;
+    }
+    .creative-content figure img{
+        margin-bottom: 15px;
+    }
+    .mts{
+        margin-top:50px;
+    }
+    /* creative media end */
+
+    /* offer media css start */
+    .offer-heading {
+        margin-bottom: 15px;
+        font-size: 17px;
+    }
+    /* offer media css end */
+
+    /* footer media css start */
+    .footer-top {
+        padding: 60px 0;
+    }
+    .ft-widget {
+        margin-bottom: 20px;
+    }
+    .ft-widget h2 {
+        font-size: 22px;
+    }
+    .ft-contact ul li p {
+        font-size: 14px;
+    }
+    .ft-menu ul li a {
+        font-size: 14px;
+    }
+    .form-name, .form-phone, .form-massage {
+        font-size: 14px;
+    }
+    /* footer media css end */
+
+	
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   /* header top media css start */
+   .contact-item{
+       margin-top: 20px;
+   }
+
+   /* header top media css end */
+
+   /* banner media css start */
+   .banner-caoption {
+	padding: 170px 0;
+    }
+   .banner-caoption h1 {
+	font-size: 40px;
+    }
+   /* banner media css end */
+
+    /* choose media css start */
+    .similar-title h1 {
+        font-size: 35px;
+    }
+    .choose-content {
+        margin-top: 30px;
+        padding: 0;
+    }
+    .c-icon i {
+        font-size: 18px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+      
+    }
+    /* choose media css end */
+
+    /* counter media css start */
+    .counter {
+        padding: 50px 0;
+    }
+    .counter-item h2 {
+        margin-top: 15px;
+        font-size: 40px;
+    }
+    .counter-item h5 {
+        font-size: 16px;    
+    }
+    .h-arrow {
+        width: 45px;
+        height: 3px;
+    }
+    /* counter media css end */
+
+    /* creative media start */
+    .creative-content {
+        margin-top: 15px;
+    }
+    .mc-btn {
+        padding: 0px 4px;
+        font-size: 16px;
+    }
+    .mc-header {
+        margin: 10px 0;
+    }
+    .mc-btn::before {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;    
+    }
+    .ac-body {
+        margin-bottom: 30px;
+        padding: 0 25px !important;
+        font-size: 14px;
+    }
+    .creative-content figure h2 {
+        font-size: 16px;
+    }
+    .creative-content figure figcaption {
+        font-size: 12px;
+    }
+    .creative-content figure img{
+        margin-bottom: 10px;
+    }
+    /* creative media end */
+
+    /* team media css start */
+    .member-bio h3 {
+        font-size: 22px;
+    }
+    .member-bio p {
+        font-size: 15px;
+    }
+    /* team media css end */
+
+    /* offer media css start */
+    .offer-heading {
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    /* offer media css end */
+
+    /* footer media css start */
+    .footer-top {
+        padding: 60px 0;
+    }
+    .ft-widget h2 {
+        font-size: 22px;
+    }
+    .ft-contact ul li p {
+        font-size: 14px;
+    }
+    .ft-menu ul li a {
+        font-size: 14px;
+    }
+    .form-name, .form-phone, .form-massage {
+        font-size: 14px;
+    }
+    /* footer media css end */
+
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   
+ }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+ }
